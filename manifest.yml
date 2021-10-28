@@ -1,0 +1,5 @@
+manifest_version: 1
+name: ResponseSlimmer
+description: this executor can be used for slimming the flow's final response by removing unneeded fields.
+url: https://github.com/Ahmad-Nouh/ResponseSlimmer.git
+keywords: ['executor', 'slimmer']
